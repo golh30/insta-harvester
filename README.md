@@ -1,7 +1,18 @@
-## heroku-angular2-seed
+## insta-harvester
+get profile picture of user from insta
+![alt tag](https://raw.githubusercontent.com/golh30/insta-harvester/branch/harvester.jpg)
+### It has two small projects which are deployed in Heroku Cloud.
+- front-end in angular2 Project Name : heroku-angular2-seed
+  This project is forked from heroku-angular2-seed.
+  Live Demo : https://insta-harvester.herokuapp.com
+- back-end in nodeJS Project Name : nodejs-backend-api
+  This project is created using express-generator.
+  Live Demo : https://sbox-insta-harvester-api-v1.herokuapp.com/user/:anyUsernameFromInsta
+  
+## More Info  
+### heroku-angular2-seed
 
 A simple starter project demonstrating the basic concepts of Angular 2.
-
 
 ### Usage
 - Clone or fork this repository
@@ -38,6 +49,6 @@ $ heroku repo:purge_cache -a appname
 - Take a look at [heroku-static-buildpack](https://github.com/heroku/heroku-buildpack-static)
 - Take a look at pretty self-explaining commits
 
-# insta-harvester
-get profile pics of insta 
-
+ 
+### nodejs-backend-api
+- Api will fetch insta profile picture link from offical insta website.
