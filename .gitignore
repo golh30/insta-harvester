@@ -1,4 +1,4 @@
-/node_modules/
+/heroku-angular2-seed/node_modules/
 /dist/
 /npm-debug.log
 .env
