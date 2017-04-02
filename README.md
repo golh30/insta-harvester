@@ -1,13 +1,15 @@
 ## insta-harvester
+
+![alt tag](https://raw.githubusercontent.com/golh30/insta-harvester/master/harvester.jpg)
+<br>
 get profile picture of user from insta
-![alt tag](https://raw.githubusercontent.com/golh30/insta-harvester/branch/harvester.jpg)
 ### It has two small projects which are deployed in Heroku Cloud.
 - front-end in angular2 Project Name : heroku-angular2-seed
   This project is forked from heroku-angular2-seed.
   Live Demo : https://insta-harvester.herokuapp.com
 - back-end in nodeJS Project Name : nodejs-backend-api
   This project is created using express-generator.
-  Live Demo : https://sbox-insta-harvester-api-v1.herokuapp.com/user/:anyUsernameFromInsta
+  Live Demo : https://sbox-insta-harvester-api-v1.herokuapp.com/users/golh30
   
 ## More Info  
 ### heroku-angular2-seed
