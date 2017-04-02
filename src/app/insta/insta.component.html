@@ -1,0 +1,10 @@
+<h3>Insta Profile Picture</h3>
+<div style="text-align:center">
+<input type="text" #name placeholder="Search insta profile picture name">
+<div>
+<button (click)="searchForPP(name.value)">Get PP</button>
+</div>
+<div>
+<img [src]="urlVariable" height="250px" weight="250px"/>
+</div>
+</div>
